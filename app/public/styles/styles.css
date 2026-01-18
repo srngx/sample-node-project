@@ -1,4 +1,15 @@
 /* Custom styles can be added to this file */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+html {
+	background-color: brown;
+	color: yellow;
+
+}
+
 span {
-    font-size: 50px;
+    font-size: 70px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
